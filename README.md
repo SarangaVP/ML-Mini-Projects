@@ -1,2 +1,2 @@
 # ML-Mini-Projects
-This repository contains a collection of machine learning models showcasing various algorithms and techniques.
+A collection of small ML projects showcasing various algorithms and techniques, created for learning purposes.
